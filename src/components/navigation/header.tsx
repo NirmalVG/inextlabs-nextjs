@@ -135,7 +135,7 @@ export function Header() {
             <div className="flex flex-col space-y-6 mt-6">
               <div className="flex items-center space-x-2">
                 <Image
-                  src="/inextlabs-logo.png"
+                  src="/images/inextlabs-logo.png"
                   alt="iNextLabs"
                   width={128}
                   height={32}
