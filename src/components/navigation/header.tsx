@@ -44,7 +44,7 @@ export function Header() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center space-x-2">
           <Image
-            src="/images/inextlabs-logo.webp"
+            src="/images/inextlabs-logo.jpg"
             alt="iNextLabs"
             width={160}
             height={40}
