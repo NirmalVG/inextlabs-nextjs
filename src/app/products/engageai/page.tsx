@@ -46,7 +46,7 @@ export default function EngageAIPage() {
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
                 Deliver personalized, scalable customer experiences across all
                 touchpoints. Build intelligent, cross-channel interactions that
-                adapt to each customer's unique needs and preferences.
+                adapt to each customer&apos;s unique needs and preferences.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button
@@ -76,7 +76,7 @@ export default function EngageAIPage() {
                 <div className="space-y-3">
                   <div className="bg-gray-50 rounded p-3">
                     <div className="text-sm text-gray-600">
-                      Customer: "I need help with my subscription"
+                      Customer: &quot;I need help with my subscription&quot;
                     </div>
                   </div>
                   <div className="bg-accent/5 rounded p-3 border-l-4 border-accent">
@@ -85,6 +85,21 @@ export default function EngageAIPage() {
                     </div>
                     <div className="text-sm text-gray-700">
                       Based on your Premium plan, here are your options...
+                    </div>
+                  </div>
+                  <div className="bg-blue-50 rounded p-3 border-l-4 border-blue-400">
+                    <div className="text-sm font-medium">
+                      Suggested Response:
+                    </div>
+                    <div className="text-sm text-gray-700">
+                      &quot;I can help you track your order. Let me look that up
+                      for you...&quot;
+                    </div>
+                  </div>
+                  <div className="bg-yellow-50 rounded p-3 border-l-4 border-yellow-400">
+                    <div className="text-sm font-medium">Knowledge Base:</div>
+                    <div className="text-sm text-gray-700">
+                      &quot;Order Tracking Guide - Article #247&quot;
                     </div>
                   </div>
                 </div>

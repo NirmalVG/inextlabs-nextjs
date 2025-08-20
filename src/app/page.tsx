@@ -56,7 +56,7 @@ export default function HomePage() {
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-4 text-center">
           <p className="text-sm text-slate-600 mb-8 font-medium">
-            Recognized by the world's top organizations
+            Recognized by the world&apos;s top organizations
           </p>
           <div className="flex flex-wrap justify-center items-center gap-8 text-slate-400">
             <span className="text-sm font-medium">Microsoft</span>

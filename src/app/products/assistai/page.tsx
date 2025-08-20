@@ -77,7 +77,7 @@ export default function AssistAIPage() {
                 <div className="space-y-3">
                   <div className="bg-gray-50 rounded p-3">
                     <div className="text-sm text-gray-600">
-                      Customer: "I need help with my order"
+                      Customer: &quot;I need help with my order&quot;
                     </div>
                   </div>
                   <div className="bg-primary/5 rounded p-3 border-l-4 border-primary">
@@ -85,7 +85,8 @@ export default function AssistAIPage() {
                       AI Suggestion:
                     </div>
                     <div className="text-sm text-gray-700">
-                      Check order #12345 - shipped yesterday
+                      &quot;I can help you track your order. Let me look that up
+                      for you...&quot;
                     </div>
                   </div>
                 </div>
@@ -268,8 +269,8 @@ export default function AssistAIPage() {
                         Suggested Response:
                       </div>
                       <div className="text-sm text-gray-700">
-                        "I can help you track your order. Let me look that up
-                        for you..."
+                        &quot;I can help you track your order. Let me look that
+                        up for you...&quot;
                       </div>
                     </div>
                     <div className="bg-yellow-50 rounded p-3 border-l-4 border-yellow-400">

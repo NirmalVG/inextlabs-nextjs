@@ -134,28 +134,28 @@ export default function ChatPage() {
                       Product Information
                     </p>
                     <p className="text-xs text-muted-foreground">
-                      "Tell me about your AI products"
+                      &quot;Tell me about your AI products&quot;
                     </p>
                   </div>
 
                   <div className="p-3 bg-muted rounded-lg">
                     <p className="text-sm font-medium mb-1">Pricing Inquiry</p>
                     <p className="text-xs text-muted-foreground">
-                      "What are your pricing plans?"
+                      &quot;What are your pricing plans?&quot;
                     </p>
                   </div>
 
                   <div className="p-3 bg-muted rounded-lg">
                     <p className="text-sm font-medium mb-1">Demo Request</p>
                     <p className="text-xs text-muted-foreground">
-                      "I'd like to schedule a demo"
+                      &quot;I&apos;d like to schedule a demo&quot;
                     </p>
                   </div>
 
                   <div className="p-3 bg-muted rounded-lg">
                     <p className="text-sm font-medium mb-1">Support Help</p>
                     <p className="text-xs text-muted-foreground">
-                      "I need help with integration"
+                      &quot;I need help with integration&quot;
                     </p>
                   </div>
                 </CardContent>

@@ -75,7 +75,7 @@ export default function InsightsAIPage() {
                 <div className="space-y-3">
                   <div className="bg-gray-50 rounded p-3">
                     <div className="text-sm text-gray-600">
-                      "Show me sales trends for Q4"
+                      &quot;Show me sales trends for Q4&quot;
                     </div>
                   </div>
                   <div className="bg-secondary/5 rounded p-3 border-l-4 border-secondary">
@@ -446,7 +446,7 @@ export default function InsightsAIPage() {
       <section className="py-20 bg-muted">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold font-space-grotesk text-foreground mb-4">
-            Ready to Unlock Your Data's Potential?
+            Ready to Unlock Your Data&apos;s Potential?
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8">
             Join leading companies using InsightsAI to transform their data into
